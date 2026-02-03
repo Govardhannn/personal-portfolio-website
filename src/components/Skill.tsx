@@ -1,3 +1,4 @@
+ "use client"
 import type { Skill } from "@/types/types";
 
 interface SkillProps {

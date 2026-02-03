@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import {ReactTyped} from 'react-typed'
 import {motion} from 'framer-motion'
